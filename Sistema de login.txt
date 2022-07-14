@@ -1,4 +1,3 @@
 Digite o e-mail:
 Digite a Senha:
 Digite a idade:
-
