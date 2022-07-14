@@ -1,7 +1,4 @@
 Digite o e-mail:
 Digite a Senha:
-<<<<<<< HEAD:Sistema de login.txt.txt
-Digite a idade 1:
-=======
 Digite a idade:
->>>>>>> ad073b6da8a4ea15193f678f8243fb04354df830:Sistema de login.txt
+
